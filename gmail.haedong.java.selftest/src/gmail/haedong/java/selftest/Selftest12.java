@@ -7,7 +7,7 @@ public class Selftest12 {
 				if(j >= 2*i + 1) {
 					System.out.print(i >=2 ? j-3 : j-2);
 				}else {
-					System.out.print("-");
+					System.out.print(" ");
 				}
 				
 			}
@@ -20,7 +20,7 @@ public class Selftest12 {
 				if(j >= 2*i + 1) {
 					System.out.print(i <= 1 ? j+6 : j+2);
 				}else {
-					System.out.print("-");
+					System.out.print(" ");
 				}
 			}
 			System.out.print("\n");

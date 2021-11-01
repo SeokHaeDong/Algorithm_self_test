@@ -7,7 +7,7 @@ public class Selftest11 {
 				if (i >= j) {
 					System.out.print("*");
 				}else {
-					System.out.print("-");
+					System.out.print(" ");
 				}
 			}
 			System.out.print("\n");
@@ -18,7 +18,7 @@ public class Selftest11 {
 				if( i > j) {
 					System.out.print("*");
 				}else {
-					System.out.print("-");
+					System.out.print(" ");
 				}
 			}
 			System.out.print("\n");
