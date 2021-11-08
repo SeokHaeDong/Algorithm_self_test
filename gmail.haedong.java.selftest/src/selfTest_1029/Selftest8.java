@@ -1,4 +1,4 @@
-package gmail.haedong.java.selftest;
+package selfTest_1029;
 
 public class Selftest8 {
 	public static void main(String[] args) {
